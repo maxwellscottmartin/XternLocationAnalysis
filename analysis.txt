@@ -17,9 +17,11 @@ Mesh
 The Oceanaire Seafood Room
 Livery
 
-5 events are needed, with one every other week. Going off of nearby events, there is:
+5 events are needed, with one every other week. Going off of nearby events, 5 are:
 Indianapolis Chamber Orchestra: 5-22
 Wallows Concert: 6-07
-Talbot Street Art Fair: 7-15
+Talbot Street Art Fair: 6-18
 Barenaked Ladies Concert: 7-01
 5 Seconds of Summer with The Band Camino Concert: 7-15
+
+Given these, a proposed 10 week schedule can be created. See the spreadsheet in the repo for the shcedule.
